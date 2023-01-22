@@ -5,7 +5,7 @@
 
 ## Chaper 2. 스프링부트에서 테스트코드를 작성하자
 
-![DC3B18B8-4AFD-4D71-8360-BE9FA3EC6B8E.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c72285cf-0fd3-43c9-b7a0-eb718affd754/DC3B18B8-4AFD-4D71-8360-BE9FA3EC6B8E.jpeg)
+
 
 - 단위테스트?
     - 기능단위의 테스트 코드를 작성하는 것. 리팩토링에 포함되지 않음.
@@ -89,7 +89,7 @@ dependencies {
 > - 별도의 설치없이 프로젝트 의존성만으로 관리가능
 > - 메모리에서 실행. 애플리케이션 재시작마다 초기화. 테스트용으로 많이 사용
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263fccef-ccf3-4ba2-a0eb-25233e323f6d/Untitled.png)
+
 
 게시글, 댓글, 회원, 정산, 결제 등 소프트웨어에 대한 요구사항 혹은 문제영역이라고 생각하면 됨. 
 
